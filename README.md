@@ -25,8 +25,6 @@ This project is a website for a garden design company that specializes in garden
 
 Open the project in a web browser to explore the website. You can navigate through the various sections such as Home, Services, Portfolio, About Us, and Contact.
 
-[video.webm…]()
-
 
 ## Contact
 
