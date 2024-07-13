@@ -97,7 +97,7 @@ Open the project in a web browser to explore the website. You can navigate throu
   
 ## short video about the project
 https://files.fm/f/3znqhtzc8b
-
+<script type="text/javascript" src="https://files.fm/embed/playerv2?hash=3znqhtzc8b&autoplay=off&autoload=off&w=100%&h=auto&poster_src=https://files.fm/thumb_video_picture.php?i=3znqhtzc8b" id="filesfm_embed_js__3znqhtzc8b"></script>
 ## Contact
 
 Created by Ali Magdy - alimagdye1@gmail.com - feel free to contact me!
