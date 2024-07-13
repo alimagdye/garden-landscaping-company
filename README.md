@@ -1,6 +1,6 @@
-# Garden Design Company Website
+# Garden Landscaping Company Website
 
-This project is a website for a garden design company that specializes in garden design, creation, maintenance, and landscaping. I designed this responsive website, incorporating an interactive image slider and portfolio gallery, which demonstrates my ability to create visually appealing, user-friendly websites that can enhance user engagement and improve customer experience. The website includes sections such as Home, Services, Portfolio, About Us, and Contact.
+This project is a website for a garden lanscaping company that specializes in garden design, creation, maintenance, and landscaping. I designed this responsive website, incorporating an interactive image slider and portfolio gallery, which demonstrates my ability to create visually appealing, user-friendly websites that can enhance user engagement and improve customer experience. The website includes sections such as Home, Services, Portfolio, About Us, and Contact.
 
 
 ## Features
